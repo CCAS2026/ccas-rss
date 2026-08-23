@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>CCAS Global Compliance Blog</title>
+    <link>https://ccas.global/ccas-%7C-blogs-%26-media</link>
+    <description>Automatic CCAS blog feed. Run the workflow to populate current blog posts.</description>
+  </channel>
+</rss>
